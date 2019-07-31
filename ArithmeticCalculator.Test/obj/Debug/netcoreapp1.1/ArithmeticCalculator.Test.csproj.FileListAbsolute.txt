@@ -1,0 +1,15 @@
+C:\Users\rparkar\Desktop\Assignments\ArithmeticCalculator\ArithmeticCalculator.Test\bin\Debug\netcoreapp1.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\rparkar\Desktop\Assignments\ArithmeticCalculator\ArithmeticCalculator.Test\bin\Debug\netcoreapp1.1\xunit.runner.utility.netstandard15.dll
+C:\Users\rparkar\Desktop\Assignments\ArithmeticCalculator\ArithmeticCalculator.Test\bin\Debug\netcoreapp1.1\xunit.runner.reporters.netstandard15.dll
+C:\Users\rparkar\Desktop\Assignments\ArithmeticCalculator\ArithmeticCalculator.Test\bin\Debug\netcoreapp1.1\ArithmeticCalculator.Test.deps.json
+C:\Users\rparkar\Desktop\Assignments\ArithmeticCalculator\ArithmeticCalculator.Test\bin\Debug\netcoreapp1.1\ArithmeticCalculator.Test.runtimeconfig.json
+C:\Users\rparkar\Desktop\Assignments\ArithmeticCalculator\ArithmeticCalculator.Test\bin\Debug\netcoreapp1.1\ArithmeticCalculator.Test.runtimeconfig.dev.json
+C:\Users\rparkar\Desktop\Assignments\ArithmeticCalculator\ArithmeticCalculator.Test\bin\Debug\netcoreapp1.1\ArithmeticCalculator.Test.dll
+C:\Users\rparkar\Desktop\Assignments\ArithmeticCalculator\ArithmeticCalculator.Test\bin\Debug\netcoreapp1.1\ArithmeticCalculator.Test.pdb
+C:\Users\rparkar\Desktop\Assignments\ArithmeticCalculator\ArithmeticCalculator.Test\bin\Debug\netcoreapp1.1\ArithmeticCalculator.App.dll
+C:\Users\rparkar\Desktop\Assignments\ArithmeticCalculator\ArithmeticCalculator.Test\bin\Debug\netcoreapp1.1\ArithmeticCalculator.App.pdb
+C:\Users\rparkar\Desktop\Assignments\ArithmeticCalculator\ArithmeticCalculator.Test\obj\Debug\netcoreapp1.1\ArithmeticCalculator.Test.csprojResolveAssemblyReference.cache
+C:\Users\rparkar\Desktop\Assignments\ArithmeticCalculator\ArithmeticCalculator.Test\obj\Debug\netcoreapp1.1\ArithmeticCalculator.Test.csproj.CoreCompileInputs.cache
+C:\Users\rparkar\Desktop\Assignments\ArithmeticCalculator\ArithmeticCalculator.Test\obj\Debug\netcoreapp1.1\ArithmeticCalculator.Test.AssemblyInfo.cs
+C:\Users\rparkar\Desktop\Assignments\ArithmeticCalculator\ArithmeticCalculator.Test\obj\Debug\netcoreapp1.1\ArithmeticCalculator.Test.dll
+C:\Users\rparkar\Desktop\Assignments\ArithmeticCalculator\ArithmeticCalculator.Test\obj\Debug\netcoreapp1.1\ArithmeticCalculator.Test.pdb

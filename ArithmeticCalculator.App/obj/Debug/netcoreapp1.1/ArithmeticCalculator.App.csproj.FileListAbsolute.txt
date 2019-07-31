@@ -1,0 +1,10 @@
+C:\Users\rparkar\Desktop\Assignments\ArithmeticCalculator\ArithmeticCalculator.App\bin\Debug\netcoreapp1.1\ArithmeticCalculator.App.deps.json
+C:\Users\rparkar\Desktop\Assignments\ArithmeticCalculator\ArithmeticCalculator.App\bin\Debug\netcoreapp1.1\ArithmeticCalculator.App.runtimeconfig.json
+C:\Users\rparkar\Desktop\Assignments\ArithmeticCalculator\ArithmeticCalculator.App\bin\Debug\netcoreapp1.1\ArithmeticCalculator.App.runtimeconfig.dev.json
+C:\Users\rparkar\Desktop\Assignments\ArithmeticCalculator\ArithmeticCalculator.App\bin\Debug\netcoreapp1.1\ArithmeticCalculator.App.dll
+C:\Users\rparkar\Desktop\Assignments\ArithmeticCalculator\ArithmeticCalculator.App\bin\Debug\netcoreapp1.1\ArithmeticCalculator.App.pdb
+C:\Users\rparkar\Desktop\Assignments\ArithmeticCalculator\ArithmeticCalculator.App\obj\Debug\netcoreapp1.1\ArithmeticCalculator.App.csprojResolveAssemblyReference.cache
+C:\Users\rparkar\Desktop\Assignments\ArithmeticCalculator\ArithmeticCalculator.App\obj\Debug\netcoreapp1.1\ArithmeticCalculator.App.csproj.CoreCompileInputs.cache
+C:\Users\rparkar\Desktop\Assignments\ArithmeticCalculator\ArithmeticCalculator.App\obj\Debug\netcoreapp1.1\ArithmeticCalculator.App.AssemblyInfo.cs
+C:\Users\rparkar\Desktop\Assignments\ArithmeticCalculator\ArithmeticCalculator.App\obj\Debug\netcoreapp1.1\ArithmeticCalculator.App.dll
+C:\Users\rparkar\Desktop\Assignments\ArithmeticCalculator\ArithmeticCalculator.App\obj\Debug\netcoreapp1.1\ArithmeticCalculator.App.pdb

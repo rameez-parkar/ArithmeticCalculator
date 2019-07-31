@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.15
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArithmeticCalculator.App", "ArithmeticCalculator.App\ArithmeticCalculator.App.csproj", "{0772A0D7-5E90-4F33-B049-FE9D1FA13E07}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArithmeticCalculator.Test", "ArithmeticCalculator.Test\ArithmeticCalculator.Test.csproj", "{3D0C566D-521D-44EA-A77E-2AC9190A7358}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0772A0D7-5E90-4F33-B049-FE9D1FA13E07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0772A0D7-5E90-4F33-B049-FE9D1FA13E07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0772A0D7-5E90-4F33-B049-FE9D1FA13E07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0772A0D7-5E90-4F33-B049-FE9D1FA13E07}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D0C566D-521D-44EA-A77E-2AC9190A7358}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D0C566D-521D-44EA-A77E-2AC9190A7358}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D0C566D-521D-44EA-A77E-2AC9190A7358}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D0C566D-521D-44EA-A77E-2AC9190A7358}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E26853AC-9D53-4328-8CC6-FB487276D771}
+	EndGlobalSection
+EndGlobal
